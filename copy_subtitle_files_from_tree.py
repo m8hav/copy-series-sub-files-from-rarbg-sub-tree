@@ -10,7 +10,10 @@ folder_paths_list = [
     # r"\\wsl.localhost\Ubuntu\mnt\wsl\PHYSICALDRIVE1p2\home\bart\Downloads\Pending\Lucifer.S05.COMPLETE.1080p.NF.WEBRip.DDP5.1.x264-MRCS[rartv]",
     # r"\\wsl.localhost\Ubuntu\mnt\wsl\PHYSICALDRIVE1p2\home\bart\Downloads\Pending\Lucifer.S06.1080p.NF.WEBRip.DDP5.1.x264-AGLET[rartv]",
     # r"\\wsl.localhost\Ubuntu\mnt\wsl\PHYSICALDRIVE1p2\home\bart\Downloads\UPending\Movies and Series\The.Sex.Lives.Of.College.Girls.S01.PROPER.1080p.WEBRip.x265-RARBG",
-    r"C:\Users\BartBruh\Downloads\WPending\The.Sex.Lives.Of.College.Girls.S02.1080p.WEBRip.x265-RARBG",
+    # r"C:\Users\BartBruh\Downloads\WPending\The.Sex.Lives.Of.College.Girls.S02.1080p.WEBRip.x265-RARBG",
+    r"D:\Users\madha\Downloads\GPending\Sex.Education.S01.1080p.WEBRip.x265-RARBG",
+    r"D:\Users\madha\Downloads\GPending\Sex.Education.S02.1080p.WEBRip.x265-RARBG",
+    r"D:\Users\madha\Downloads\GPending\Sex.Education.S03.1080p.WEBRip.x265-RARBG",
 ]
 
 
